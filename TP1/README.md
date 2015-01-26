@@ -7,7 +7,7 @@ Aim of this session is to learn to communicate with the motors.
 Using the provided example:
 - PING your motors
 - make generic functions to build any packet (read/write)
-- change the motors id to 10,11,12
+- change the motors id to 11, 12, 13
 - move the motors
 
 Related documentation:
