@@ -1,6 +1,6 @@
 # TP1
 
-Aim of this session is to learn to communicate with the motors.
+The aim of this session is to learn to communicate with the motors.
 
 ## Instruction
 
