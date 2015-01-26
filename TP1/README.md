@@ -12,5 +12,5 @@ Using the provided example:
 
 Related documentation:
 
-- AX-12.pdf (read the protocol chapters from page 10)
+- AX-12.pdf (**read the protocol chapters from page 10**)
 - http://support.robotis.com/en/product/dynamixel/ax_series/dxl_ax_actuator.htm
