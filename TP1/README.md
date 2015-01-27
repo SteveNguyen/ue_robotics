@@ -7,7 +7,7 @@ The aim of this session is to learn to communicate with the motors.
 **Read the protocol chapters from page 10** (AX-12.pdf)
 
 Connecting the motors:
-![how to connect the motors](https://github.com/SteveNguyen/ue_robotics/edit/master/TP1/connection.png "How to connect the motors")
+![how to connect the motors](https://github.com/SteveNguyen/ue_robotics/edit/master/connection.png "How to connect the motors")
 
 Using the provided example:
 - PING your motors
