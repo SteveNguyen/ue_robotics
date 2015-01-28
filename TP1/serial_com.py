@@ -38,7 +38,7 @@ def decode_data(data):
 if __name__ == '__main__':
 
     # we open the port
-    serial_port = open_serial('/dev/ttyUSB0', 1000000)
+    serial_port = open_serial('/dev/ttyUSB0', 1000000, timeout=0.1)
 
     # we create the packet for a LED ON command
     # two start bytes
