@@ -1,5 +1,6 @@
 import itertools
 import time
+import numpy
 import pypot.dynamixel
 
 
