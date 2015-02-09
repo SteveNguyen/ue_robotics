@@ -17,10 +17,10 @@ measuring them.
 4. Implement your solution using python and pypot.
 
 **NOTES:**
-The answers to 1. 2. and 3. shall be written a paper
+The answers to 1. 2. and 3. shall be written on a paper
 version of "leg.pdf". Your work will be collected before the end of
 the class (1 per student). Clean work expected. A solution will be
-given.
+given afterwards.
 
 The 4. implementation is due for the start of TP4 (1 implementation
 per team). You'll then have a few minutes to prepare your setup and
