@@ -5,7 +5,7 @@
   it on a robotic leg.**
 
 1. Solve the direct kinematic problem : Knowing theta1, theta2, theta3,
-L1, L2 and L3, find P1(x1, y1), P2(x2, y2) and P3(x3, y3).
+L1, L2 and L3, find P1(x1, y1, z1), P2(x2, y2, z2) and P3(x3, y3, z3).
 
 2. Adapt your solution to your robotic leg, i.e. make sure that your
 solution is valid if you replace thetaX by
