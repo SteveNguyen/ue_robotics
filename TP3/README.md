@@ -17,7 +17,7 @@ measuring them.
 4. Implement your solution using python and pypot.
 
 **NOTE:**
-Every student shall write the answers to 1. 2. and 3. on his/her paper
+The answers to 1. 2. and 3. shall be written a paper
 version of "leg.pdf". Your work will be collected before the end of
 the class (1 per student). Clean work expected. A solution will be
 given.
