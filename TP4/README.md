@@ -13,7 +13,8 @@ solution is valid if you replace motorX.currentPosition by thetaX.
 
 3. Implement your solution using python and pypot.
 
-**NOTE:**
+**NOTES:**
+
 Google these if you are in need of a reminder :
 - SOH CAH TOA
 - Al-Kashi
