@@ -11,8 +11,7 @@ L1, L2 and L3, find P1(x1, y1, z1), P2(x2, y2, z2) and P3(x3, y3, z3).
 solution is valid if you replace thetaX by
 motorX.currentPosition. What is the (0°, 0°, 0°) point of the leg?
 
-3. Find L1, L2, L3 and any other needed measure. Ideally, find the piece's actual dimensions instead of just
-measuring them. Use the information provided by the "origin.pdf" document.
+3. Find L1, L2, L3 and any other needed measure. Use the information provided by the "origin.pdf" document.
 
 4. Implement your solution using python and pypot.
 
