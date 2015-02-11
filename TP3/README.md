@@ -9,7 +9,7 @@ L1, L2 and L3, find P1(x1, y1, z1), P2(x2, y2, z2) and P3(x3, y3, z3).
 
 2. Adapt your solution to your robotic leg, i.e. make sure that your
 solution is valid if you replace thetaX by
-motorX.currentPosition. What is the (x=0, y=0; z=0) point of the real leg?
+motorX.currentPosition. What is the (x=0, y=0, z=0) point of the real leg?
 
 3. Find L1, L2, L3 and any other needed measure. Use the information provided by the "origin.pdf" document.
 
