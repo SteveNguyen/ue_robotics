@@ -13,15 +13,16 @@ solution is valid if you replace motorX.currentPosition by thetaX.
 
 3. Implement your solution using python and pypot.
 
-**NOTE:**
+**NOTES:**
+
 Google these if you are in need of a reminder :
 - SOH CAH TOA
 - Al-Kashi
 
-Every student shall write the answers to 1. and 2. on his/her paper
+The answers to 1. and 2. shall be written on a paper
 version of "leg.pdf". Your work will be collected before the end of
 the class (1 per student). Clean work expected. A solution will be
-given.
+given afterwards.
 
 The 3. implementation is due for the start of TP5 (1 implementation
 per team). You'll then have a few minutes to prepare your setup and
