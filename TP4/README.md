@@ -20,7 +20,7 @@ Google these if you are in need of a reminder :
 - Al-Kashi
 
 The answers to 1. and 2. shall be written on a paper
-version of "leg.pdf". Your work will be collected before the end of
+version of "leg_proj.pdf". Your work will be collected before the end of
 the class (1 per student). Clean work expected. A solution will be
 given afterwards.
 
