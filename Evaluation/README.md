@@ -8,7 +8,7 @@
 
 ** Warning : **
    Not using the inverse kinematics for the validation of a
-   behavior is a crime. Your mark will be 0, and might even get
+   behavior is a crime. Your mark will be 0, and you might even get
    fined.
 
 ** Note : **
