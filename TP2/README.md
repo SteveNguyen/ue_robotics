@@ -1,15 +1,34 @@
 # TP2
 
-**The aim of this TP is to use the pypot library to communicate with the motors**
+**The aim of this TP is to solve the inverse kinematic problem on a 3
+  joint leg, using simple trigonometry. Then implement the solution.
+The implementation will be tested later on.
+  it on a robotic leg.**
 
-1. Be sure to have pypot properly installed (cf. ![The first README](https://github.com/SteveNguyen/ue_robotics/blob/master/README.md "README") and http://poppy-project.github.io/pypot/installation.html)
-2. Test (and understand) the example program 
-3. Change the motors positions to 10°, 20° and 30°
-4. Write a loop to make the motors follow a sinusoid of frequency 0.5Hz and amplitude 10° centered at 0°.
-  You need to use numpy.sin(), numpy.pi and time.time()
-5. Write a generic function to change a motor id and change the ids of your motors to 10,11,12.
+1. Solve the inverse kinematic problem : Knowing P3(x3, y3, z3),
+L1, L2 and L3, find theta1, theta2, theta3. What is the fundamental
+difference between the direct and the inverse kinematic problem?
 
-**NOTE:**
+2. Adapt your solution to your robotic leg, i.e. make sure that your
+solution is valid if you replace motorX.currentPosition by thetaX.
 
-Everything you need to use in pypot is documented here: 
-http://poppy-project.github.io/pypot/pypot.dynamixel.html#module-pypot.dynamixel.io
+3. Implement your solution using python.
+
+**NOTES:**
+
+Google these if you are in need of a reminder :
+- SOH CAH TOA
+- Al-Kashi
+
+The answers to 1. and 2. shall be written on a paper
+version of "leg_proj.pdf". Your work will be collected before the end of
+the class (1 per student). Clean work expected. A solution will be
+given afterwards.
+
+The 3. implementation is due for the start of the next tp (1 implementation
+per team). You'll then have a few minutes to prepare your setup and
+demonstrate its functionality. Expected format :
+A file named "inverse_kinematics.py" with a function "leg_ik(x, y, z, l1=L1, l2=L2, l3=L3, other needed parameters)" that
+returns the angles [theta1,
+theta2, theta3] in ° that need to be applied to the motors in order to
+reach [x, y , z].
