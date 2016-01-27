@@ -34,6 +34,7 @@ l3 = 93
 alpha = 20.69
 beta = 5.06
 
+
 As a quick verification here are the solutions for some values of Theta1, Theta2, Theta3 (in mm with an accepted error of +/- 1mm):
 
 0°,0°,0°:  [118.79, 0.0, -115.14]
