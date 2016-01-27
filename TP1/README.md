@@ -28,6 +28,12 @@ A file named "direct_kinematics.py" with a function "leg_dk(theta1,
 theta2, theta3, l1=L1, l2=L2, l3=L3, other needed parameters)" that
 returns the position [x, y, z] of the end of the leg.
 
+l1 = 51
+l2 = 63.7
+l3 = 93
+alpha = 20.69
+beta = 5.06
+
 As a quick verification here are the solutions for some values of Theta1, Theta2, Theta3 (in mm with an accepted error of +/- 1mm):
 
 0°,0°,0°:  [118.79, 0.0, -115.14]
