@@ -7,15 +7,15 @@
 
 1. Set up a simple demonstration of your inverse kinematic
 implementation. 30 min max. You'll use only one the leg from your hexapod. The demonstration will be a success if you manage to do the following steps :
-a) go to x=130, y=-45, z=35
-b) go to x=130, y=-45, z=0
-c) go to x=130, y=-45, z=35
-d) go to x=130, y=0, z=35
-e) go to x=130, y=0, z=0
-f) go to x=130, y=0, z=35
-g) go to x=130, y=45, z=35
-h) go to x=130, y=45, z=0
-i) go to x=130, y=45, z=35 
+a) go to x=170, y=-45, z=35
+b) go to x=170, y=-45, z=0
+c) go to x=170, y=-45, z=35
+d) go to x=170, y=0, z=35
+e) go to x=170, y=0, z=0
+f) go to x=170, y=0, z=35
+g) go to x=170, y=45, z=35
+h) go to x=170, y=45, z=0
+i) go to x=170, y=45, z=35 
 j) start over from a)
 -> The delay between each step is up to you. 1 sec is a safe first try value.
 
