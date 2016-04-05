@@ -1,7 +1,7 @@
 # Evaluation
 
 ** The day of the evaluation you'll be asked to demonstrate the
-   behaviors your robot can execute. Each group will have ~20 minutes
+   behaviors your robot can execute. Each group will have ~10 minutes
    to do so and answer a few questions. A mark will be given to the
    group, but keep in mind that the final mark is individual as it heavily
    takes into account the continuous evaluation.  **
@@ -13,7 +13,7 @@
 
 ** Note : **
    Originality is absolutely encouraged, arriving to the evaluation with interesting
-   behaviors can only be good for you.
+   behaviors or approaches can only be good for you.
 
 ** Mandatory behaviors : **
    - Moving an arbitrary leg to an arbitrary (x, y, z) position
